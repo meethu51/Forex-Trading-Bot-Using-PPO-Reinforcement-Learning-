@@ -35,7 +35,7 @@ Project Structure
 ├── test_agent.py
 ├── Requirements.txt
 └── README.md
-```bash
+```
 
 ## File Overview
 
